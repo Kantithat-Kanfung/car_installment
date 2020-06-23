@@ -17,7 +17,6 @@ namespace car_installment
             InitializeComponent();
         }
 
-
         private void btnCalc_Click(object sender, EventArgs e)
         {
             if (tbxPrice.Text.ToString() == "")
@@ -61,7 +60,7 @@ namespace car_installment
                 double interest = finance * ratePerMonth * month;
                 double total = finance + interest;
                 double installment = total / month;
-                lbResult.Text = installment.ToString("0,000,000.00");
+                lbResult.Text = installment.ToString("#.00");
             }
         }
 
