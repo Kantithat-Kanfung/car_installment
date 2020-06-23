@@ -1,0 +1,8 @@
+C:\Users\Snakeman\Desktop\car_installment\bin\Debug\car_installment.exe.config
+C:\Users\Snakeman\Desktop\car_installment\bin\Debug\car_installment.exe
+C:\Users\Snakeman\Desktop\car_installment\bin\Debug\car_installment.pdb
+C:\Users\Snakeman\Desktop\car_installment\obj\Debug\car_installment.MainScreen.resources
+C:\Users\Snakeman\Desktop\car_installment\obj\Debug\car_installment.Properties.Resources.resources
+C:\Users\Snakeman\Desktop\car_installment\obj\Debug\car_installment.csproj.GenerateResource.Cache
+C:\Users\Snakeman\Desktop\car_installment\obj\Debug\car_installment.exe
+C:\Users\Snakeman\Desktop\car_installment\obj\Debug\car_installment.pdb
